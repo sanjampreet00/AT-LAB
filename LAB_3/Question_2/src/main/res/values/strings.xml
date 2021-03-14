@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab3_2</string>
+    <string-array name="Departments">
+        <item></item>
+        <item>CSE</item>
+        <item>ICT</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>Mech</item>
+    </string-array>
+
+    <string-array name="csesubjects">
+        <item></item>
+        <item>ES</item>
+        <item>Compilers</item>
+        <item>ML</item>
+        <item>BIG DATA</item>
+        <item>EOM</item>
+    </string-array>
+</resources>
